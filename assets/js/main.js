@@ -1,7 +1,7 @@
 // 
 
-const repositoryName = "portfolio";
-const repositoryOwner = "vvc10";
+const repositoryName = "Newportfoio";
+const repositoryOwner = "Rushi-31";
 
 fetch(
     `https://api.github.com/repos/${repositoryOwner}/${repositoryName}/commits`
